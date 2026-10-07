@@ -1,0 +1,1 @@
+<h1>CodeIgniter Setup is Working!</h1>
